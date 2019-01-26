@@ -21,7 +21,7 @@ set up td-agent
 ### change hosts file 
 
 	[server]  
-	192.168.1.20  
+	192.168.1.10  
 
 ### Run the Playbook
 
